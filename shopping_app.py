@@ -274,7 +274,7 @@ with st.form(
                 color:#00a1e9;
                 margin-bottom:5px;
             ">
-                👜 購入量（g）
+                👜 購入量（g）もしくは個数を入力
             </p>
             """,
             unsafe_allow_html=True
