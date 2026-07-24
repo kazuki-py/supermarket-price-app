@@ -155,7 +155,7 @@ st.markdown(
     <h3 style="
         color:blue;
         text-align:left;
-        margin-bottom:-25px;
+        margin-bottom:0px;
     ">
         ◆ 商品登録
     </h3>
